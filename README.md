@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Analysis Dashboard
+[# 🏥 Hospital Patient Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -155,3 +155,4 @@ B.E. Electronics and Communication Engineering
 ---
 
 ⭐ **If you find this project useful, consider giving the repository a star!**
+](https://github.com/Preethiba-098/COLLEGE-PLACEMENT-DASHBOARD.git)
